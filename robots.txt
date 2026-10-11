@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://timmersdesign.be/demo-kruimel-koffie/sitemap.xml
